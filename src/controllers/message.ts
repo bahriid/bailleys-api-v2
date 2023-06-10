@@ -1,4 +1,4 @@
-import { serializePrisma } from '@bahriid/baileys-store';
+import { serializePrisma } from '@kevineduardo/baileys-store';
 import type { proto, WAGenericMediaMessage, WAMessage } from '@whiskeysockets/baileys';
 import { downloadMediaMessage } from '@whiskeysockets/baileys';
 import type { RequestHandler } from 'express';
