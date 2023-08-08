@@ -1,7 +1,3 @@
-> 🚨 **NOTICE**: `@whiskeysockets/baileys` which is this project relied on, has been discontinued. Thus, this project will be archived and stopped receiving updates anymore. Thanks everyone who's been part of this❤️
-
----
-
 # Baileys API
 
 An implementation of [@whiskeysockets/baileys](https://github.com/whiskeysockets/baileys) as a simple REST API with multiple device support
